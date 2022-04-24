@@ -1,3 +1,7 @@
 Doing stuff
 Doing more stuff
 Doing even more stuff
+
+I'm done
+
+So this will be undone when I revert the commit.
